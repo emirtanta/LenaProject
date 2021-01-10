@@ -1,0 +1,10 @@
+C:\Users\emirt\source\repos\LenaProject.WebUI\LenaProject.Common\bin\Debug\LenaProject.Common.dll
+C:\Users\emirt\source\repos\LenaProject.WebUI\LenaProject.Common\bin\Debug\LenaProject.Common.pdb
+C:\Users\emirt\source\repos\LenaProject.WebUI\LenaProject.Common\obj\Debug\LenaProject.Common.csproj.CoreCompileInputs.cache
+C:\Users\emirt\source\repos\LenaProject.WebUI\LenaProject.Common\obj\Debug\LenaProject.Common.dll
+C:\Users\emirt\source\repos\LenaProject.WebUI\LenaProject.Common\obj\Debug\LenaProject.Common.pdb
+C:\Users\emirt\source\repos\LenaProject\LenaProject.Common\bin\Debug\LenaProject.Common.dll
+C:\Users\emirt\source\repos\LenaProject\LenaProject.Common\bin\Debug\LenaProject.Common.pdb
+C:\Users\emirt\source\repos\LenaProject\LenaProject.Common\obj\Debug\LenaProject.Common.csproj.CoreCompileInputs.cache
+C:\Users\emirt\source\repos\LenaProject\LenaProject.Common\obj\Debug\LenaProject.Common.dll
+C:\Users\emirt\source\repos\LenaProject\LenaProject.Common\obj\Debug\LenaProject.Common.pdb
